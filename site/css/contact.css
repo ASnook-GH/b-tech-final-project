@@ -49,7 +49,7 @@
   margin: 5px 0px;
   accent-color: #ff6505;
   box-shadow: inset 0px 0px 3px 1px rgba(255, 101, 5, 0.7);
-  height: 25px;
+  height: 20px;
 }
 
 .lk {
@@ -76,3 +76,4 @@ input[type="checkbox"]:checked ~ #success-message {
   padding: 5px;
   text-align: center;
 }
+
