@@ -1,0 +1,18 @@
+.catalogue-title {
+  margin: 15px 0px;
+  padding-left: 15px;
+}
+.catalogue-text {
+  margin: 5px 0px;
+  padding-left: 15px;
+  font-size: larger;
+}
+
+.article {
+  row-gap: 30px;
+}
+
+.list {
+  margin: 10px 0px;
+  font-size: large;
+}
